@@ -1,0 +1,161 @@
+{
+  "https://www.lepsinalada.cz/znacka/zufanek/": {
+    "products": {
+      "https://www.lepsinalada.cz/absint/absinthe-st-antoine-100/": {
+        "name": "Absinthe St. Antoine 70% 0,1l",
+        "url": "https://www.lepsinalada.cz/absint/absinthe-st-antoine-100/",
+        "price": "185.00 Kč",
+        "available": true,
+        "hash": "540baf19a2f8c42120fb479b04db6f8f"
+      },
+      "https://www.lepsinalada.cz/absint/absinthe-st-antoine-500/": {
+        "name": "Absinthe St. Antoine 70% 0,5l",
+        "url": "https://www.lepsinalada.cz/absint/absinthe-st-antoine-500/",
+        "price": "860.00 Kč",
+        "available": true,
+        "hash": "4ca481c578ae0343cd13382164e0c473"
+      },
+      "https://www.lepsinalada.cz/absint/absintova-karafa-na-vodu/": {
+        "name": "Absintová karafa na vodu",
+        "url": "https://www.lepsinalada.cz/absint/absintova-karafa-na-vodu/",
+        "price": "840.00 Kč",
+        "available": true,
+        "hash": "898c7d8da2d1493c318186f95a17d468"
+      },
+      "https://www.lepsinalada.cz/absint/absintova-sklenice-absynth-1907/": {
+        "name": "Absintová sklenice \"Absynth\" 1907",
+        "url": "https://www.lepsinalada.cz/absint/absintova-sklenice-absynth-1907/",
+        "price": "420.00 Kč",
+        "available": true,
+        "hash": "339e31cde6120d2ce681fe92142d99a6"
+      },
+      "https://www.lepsinalada.cz/absint/amave-absinthe-blanche/": {
+        "name": "Amave absinthe blanche 53% 0,5l",
+        "url": "https://www.lepsinalada.cz/absint/amave-absinthe-blanche/",
+        "price": "710.00 Kč",
+        "available": true,
+        "hash": "7913c33c4fd661b6edb0db96398fef14"
+      },
+      "https://www.lepsinalada.cz/gin/bohemian-gin/": {
+        "name": "Bohemian Gin 45% 0,7l",
+        "url": "https://www.lepsinalada.cz/gin/bohemian-gin/",
+        "price": "1100.00 Kč",
+        "available": true,
+        "hash": "20e3e1bebccfb5ae3ba85e87bb145e57"
+      },
+      "https://www.lepsinalada.cz/borovicka/borovicka-zufanek-100/": {
+        "name": "Borovička Žufánek 45% 0,1l",
+        "url": "https://www.lepsinalada.cz/borovicka/borovicka-zufanek-100/",
+        "price": "110.00 Kč",
+        "available": true,
+        "hash": "190ca62d00d3cdedae5ed65af0e7114b"
+      },
+      "https://www.lepsinalada.cz/borovicka/borovicka-zufanek-500/": {
+        "name": "Borovička Žufánek 45% 0,5l",
+        "url": "https://www.lepsinalada.cz/borovicka/borovicka-zufanek-500/",
+        "price": "450.00 Kč",
+        "available": true,
+        "hash": "c8232080b4ac89c5dd5849ef99965bec"
+      },
+      "https://www.lepsinalada.cz/limitovane-edice/brainstorm-janecky/": {
+        "name": "Brainstorm Janecký 70% 0,8l",
+        "url": "https://www.lepsinalada.cz/limitovane-edice/brainstorm-janecky/",
+        "price": "49990.00 Kč",
+        "available": true,
+        "hash": "034022412df6e79905d0be4a73fc57e2"
+      },
+      "https://www.lepsinalada.cz/geist/cesky-kmin-zufanek/": {
+        "name": "Český kmín 42% 0,5l",
+        "url": "https://www.lepsinalada.cz/geist/cesky-kmin-zufanek/",
+        "price": "460.00 Kč",
+        "available": true,
+        "hash": "b9e6ec811b5f239db771592f005fc82a"
+      },
+      "https://www.lepsinalada.cz/darkove-baleni/darkova-krabicka-hruskovice-zufanek-se-sklenickami/": {
+        "name": "Dárková krabička Hruškovice Žufánek 0,5l se skleničkami",
+        "url": "https://www.lepsinalada.cz/darkove-baleni/darkova-krabicka-hruskovice-zufanek-se-sklenickami/",
+        "price": "850.00 Kč",
+        "available": true,
+        "hash": "d754283a81899115f3583e01f1c06e46"
+      },
+      "https://www.lepsinalada.cz/darkove-baleni/darkova-krabicka-merunkovice-zufanek-se-sklenickami/": {
+        "name": "Dárková krabička Meruňkovice Žufánek 0,5l se skleničkami",
+        "url": "https://www.lepsinalada.cz/darkove-baleni/darkova-krabicka-merunkovice-zufanek-se-sklenickami/",
+        "price": "850.00 Kč",
+        "available": true,
+        "hash": "b4ed4ec1387df24c85e8f26735b07b0c"
+      }
+    },
+    "last_check": "2026-05-25T11:37:58.778378",
+    "error_count": 0
+  },
+  "https://www.lepsinalada.cz/limitovane-edice/": {
+    "products": {
+      "https://www.lepsinalada.cz/gin/omfg-oh-my-f-gin-500/": {
+        "name": "OMFG Oh My * Gin 45% 0,5l",
+        "url": "https://www.lepsinalada.cz/gin/omfg-oh-my-f-gin-500/",
+        "price": "1595.00 Kč",
+        "available": true,
+        "hash": "8677ba21a270f4c7572b8f3a09b2477a"
+      },
+      "https://www.lepsinalada.cz/absint/justifiee-et-ancienne-absinthe/": {
+        "name": "Justifiée & Ancienne absinthe 65% 0,5l",
+        "url": "https://www.lepsinalada.cz/absint/justifiee-et-ancienne-absinthe/",
+        "price": "1995.00 Kč",
+        "available": true,
+        "hash": "1a8eb0911b4b84309e7e0849a948b949"
+      },
+      "https://www.lepsinalada.cz/limitovane-edice/legendy-parfait-d-amour/": {
+        "name": "Legendy Parfait d’Amour 35% 0,5l",
+        "url": "https://www.lepsinalada.cz/limitovane-edice/legendy-parfait-d-amour/",
+        "price": "1595.00 Kč",
+        "available": true,
+        "hash": "6bc89d012bc90dbfe5fb2c1788e091c2"
+      },
+      "https://www.lepsinalada.cz/limitovane-edice/brainstorm-janecky/": {
+        "name": "Brainstorm Janecký 70% 0,8l",
+        "url": "https://www.lepsinalada.cz/limitovane-edice/brainstorm-janecky/",
+        "price": "49990.00 Kč",
+        "available": true,
+        "hash": "034022412df6e79905d0be4a73fc57e2"
+      },
+      "https://www.lepsinalada.cz/limitovane-edice/l-ancienne-absinthe-2014/": {
+        "name": "L'Ancienne absinthe 2014 65% 0,7l",
+        "url": "https://www.lepsinalada.cz/limitovane-edice/l-ancienne-absinthe-2014/",
+        "price": "29990.00 Kč",
+        "available": false,
+        "hash": "10704de11c8b25e07f67cd94ad5bddbf"
+      },
+      "https://www.lepsinalada.cz/limitovane-edice/brainstorm-cerny-janecky-zufanek/": {
+        "name": "Brainstorm Černý - Janecký - Žufánek 70% 0,5l",
+        "url": "https://www.lepsinalada.cz/limitovane-edice/brainstorm-cerny-janecky-zufanek/",
+        "price": "2490.00 Kč",
+        "available": false,
+        "hash": "2f0359a122f9364e9ed311764c76a3f8"
+      },
+      "https://www.lepsinalada.cz/absint/dubied-zufanek-1798-absinthe/": {
+        "name": "Dubied - Žufánek 1798 70% 0,5l",
+        "url": "https://www.lepsinalada.cz/absint/dubied-zufanek-1798-absinthe/",
+        "price": "2495.00 Kč",
+        "available": false,
+        "hash": "709d2cd0f0858d6c5fe265e0aa59e9a8"
+      },
+      "https://www.lepsinalada.cz/limitovane-edice/sberatelske-stribrne-medaile-zufanek-25-let/": {
+        "name": "Sběratelské stříbrné medaile Žufánek 25 let",
+        "url": "https://www.lepsinalada.cz/limitovane-edice/sberatelske-stribrne-medaile-zufanek-25-let/",
+        "price": "25000.00 Kč",
+        "available": true,
+        "hash": "5794df41054b05fbc457ddd711be4a1a"
+      },
+      "https://www.lepsinalada.cz/limitovane-edice/sejvovice-warhorse-500/": {
+        "name": "Sejvovice Warhorse 45% 0,5l",
+        "url": "https://www.lepsinalada.cz/limitovane-edice/sejvovice-warhorse-500/",
+        "price": "795.00 Kč",
+        "available": false,
+        "hash": "435429f94c56e276f1acb9ed6b66348d"
+      }
+    },
+    "last_check": "2026-05-25T11:37:58.736153",
+    "error_count": 0
+  }
+}
